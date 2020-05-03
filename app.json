@@ -1,6 +1,5 @@
 {
   "expo": {
-    "sdkVersion": "32.0.0",
     "icon": "./assets/nblogo.png",
     "slug": "nativebasekitchensink",
     "loading": {
@@ -10,9 +9,7 @@
     "orientation": "portrait",
     "primaryColor": "#cccccc",
     "packagerOpts": {
-      "assetExts": [
-        "ttf"
-      ]
+      "assetExts": ["ttf"]
     },
     "androidStatusBarColor": "#334393",
     "androidStatusBar": {
